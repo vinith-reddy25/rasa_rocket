@@ -1,0 +1,4 @@
+spacy
+requests
+PyJWT
+Js2Py
