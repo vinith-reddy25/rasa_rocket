@@ -67,7 +67,7 @@ class ActionCreateDirectMessage(Action):
                 "42",
                 "params": [{
                     'resume':
-                    'hJNgMSX8YGBbor1_6ik_NpjN7fiYVok455YND5QXqOg'
+                    'X-Auth-token'
                 }]
             }
             await rocketChatSocket.send(json.dumps(loginRequest))
